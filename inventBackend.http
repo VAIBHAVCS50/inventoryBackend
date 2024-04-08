@@ -1,0 +1,6 @@
+@inventBackend_HostAddress = http://localhost:5122
+
+GET {{inventBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
