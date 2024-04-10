@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("inventBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d1f03117868a722a4b9d95d1b62ce12b551a89a")]
 [assembly: System.Reflection.AssemblyProductAttribute("inventBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("inventBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
